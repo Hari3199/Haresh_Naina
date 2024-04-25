@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Hari3199.github.io/static/css/main.bf538fe7.css",
-    "main.js": "/Hari3199.github.io/static/js/main.bbc3f33f.js",
-    "static/media/Haresh-Naina.pdf": "/Hari3199.github.io/static/media/Haresh-Naina.7c5093d082ddf22bed0b.pdf",
-    "static/media/HeroImage.jpg": "/Hari3199.github.io/static/media/HeroImage.7684b7a32c1cbb08354a.jpg",
-    "index.html": "/Hari3199.github.io/index.html",
-    "main.bf538fe7.css.map": "/Hari3199.github.io/static/css/main.bf538fe7.css.map",
-    "main.bbc3f33f.js.map": "/Hari3199.github.io/static/js/main.bbc3f33f.js.map"
+    "main.css": "/static/css/main.bf538fe7.css",
+    "main.js": "/static/js/main.f6f80fe4.js",
+    "static/media/Haresh-Naina.pdf": "/static/media/Haresh-Naina.7c5093d082ddf22bed0b.pdf",
+    "static/media/HeroImage.jpg": "/static/media/HeroImage.7684b7a32c1cbb08354a.jpg",
+    "index.html": "/index.html",
+    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
+    "main.f6f80fe4.js.map": "/static/js/main.f6f80fe4.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.bbc3f33f.js"
+    "static/js/main.f6f80fe4.js"
   ]
 }
